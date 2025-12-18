@@ -32,12 +32,13 @@ My experience in system administration, automation, and cloud infrastructure all
 
 ### 🔐 Cybersecurity & SOC
 - Security Monitoring & Alert Triage
-- SIEM & Log Analysis (Splunk / Elastic / Sentinel – *hands-on labs*)
+- SIEM & Log Analysis (Splunk - Professional Experience and THM labs)
 - Incident Response Fundamentals
 - MITRE ATT&CK Framework
 - Network Traffic Analysis
 - Endpoint & Network Security Concepts
 - Threat Detection & Escalation
+- IDS/IPS Fundamentals (Snort - Basic Rules)
 
 ---
 
@@ -56,6 +57,16 @@ My experience in system administration, automation, and cloud infrastructure all
 - TCP/IP, DNS, HTTP/S
 - Firewalls, VPNs, and access controls
 - Understanding of enterprise network environments
+
+---
+
+## 🧰 Tooling Experience
+
+- **Splunk:** Professional experience performing log searches, analysis, and alert investigation  
+- **Wireshark:** Packet analysis through labs and simulated network traffic  
+- **Snort:** Familiar with IDS/IPS concepts and creating basic detection rules  
+- **AWS:** EC2, S3, CloudFormation, Cloud monitoring  
+- **Scripting:** Python & Bash for automation and operational tasks  
 
 ---
 
