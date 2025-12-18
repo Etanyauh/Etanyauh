@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Joseph Huaynate
 
 🔐 **Aspiring SOC Analyst | Former DevOps Engineer | Blue Team Enthusiast**
 
