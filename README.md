@@ -16,6 +16,18 @@ I’m an IT professional transitioning from **DevOps Engineering** into **Cybers
 
 ---
 
+## 🧑‍💻 Other Roles I’m Open To
+
+While my primary goal is a **Junior SOC Analyst** role, my background also aligns well with:
+
+- IT Support / Help Desk
+- Junior Systems Administrator
+- Cloud Support Engineer
+
+My experience in system administration, automation, and cloud infrastructure allows me to contribute effectively while continuing to grow in cybersecurity.
+
+---
+
 ## 🛠️ Technical Skills
 
 ### 🔐 Cybersecurity & SOC
@@ -93,13 +105,13 @@ I enjoy:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 📧 Email: [Your Email]
+- 💼 LinkedIn: [https://www.linkedin.com/in/joseph-huaynate/]
 - 🧠 GitHub: You’re already here 🙂
+- TryHackMe: [https://tryhackme.com/p/CodeRum]
 
 ---
 
-⭐ *Always learning. Always defending.*
+⭐ *Can't Stop Now.*
 
 
 <!--
