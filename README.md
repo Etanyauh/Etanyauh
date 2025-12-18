@@ -124,6 +124,9 @@ I enjoy:
 
 ⭐ *Can't Stop Now.*
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/CodeRum.png" alt="Your Image Badge" />
+
+
 
 <!--
 **Etanyauh/Etanyauh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
