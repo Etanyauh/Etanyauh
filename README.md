@@ -79,6 +79,9 @@ My experience in system administration, automation, and cloud infrastructure all
   - Incident response workflows
   - Network security & threat detection labs
 
+- CompTIA A+ and Network+ certified through PerScholas.
+- Working on CompTIA Security+
+
 ---
 
 ## 🧪 Hands-On Labs & Practice
